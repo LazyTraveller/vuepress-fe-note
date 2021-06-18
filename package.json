@@ -1,9 +1,14 @@
 {
   "name": "vurpress-fe-note",
   "version": "1.0.0",
-  "description": "前端知识笔记",
+  "description": "记录与沉淀前端知识，扩展知识的深度和广度",
   "main": "index.js",
-  "author": "hpz",
+  "author": {
+    "name": "everything sucks. just kidding. everything is great",
+    "url": "https://github.com/LazyTraveller/vuepress-fe-note",
+    "email": "heweizhi033@163.com"
+
+  },
   "license": "MIT",
   "scripts": {
     "docs:dev": "vuepress dev docs",
