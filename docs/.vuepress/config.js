@@ -29,7 +29,7 @@ function buildChildren(path, parentName = '') {
 
 const sidebar = buildChildren(workPath)
 module.exports = {
-  title: '前端随笔',
+  title: '前端杂货店',
   description: '前端系统知识笔记',
   themeConfig: {
     nav: [{ text: 'GitHub', link: "https://github.com/LazyTraveller/vuepress-fe-note" }],
