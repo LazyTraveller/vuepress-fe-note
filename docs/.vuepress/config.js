@@ -30,10 +30,11 @@ function buildChildren(path, parentName = '') {
 const sidebar = buildChildren(workPath)
 const nav =  [
 { text: "主页", link: "/" },
-{ text: "前端", link:"/web/css/" },
-{ text: "node", link: "/node/" },
+{ text: "前端", link:"/JavaScript/DOM事件.html" },
+{ text: "node", link: "/Node/事件循环.html" },
 { text: "面试问题", link: "/interview/" }
 ]
+
 module.exports = {
   title: '前端杂货店',
   description: '前端系统知识笔记',
