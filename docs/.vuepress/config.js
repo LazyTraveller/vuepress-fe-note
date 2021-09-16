@@ -2,7 +2,7 @@ const fs = require('fs')
 const path = require('path')
 const process = require('process')
 
-const ignoreList = ['.vuepress']
+const ignoreList = ['.vuepress', 'img']
 const workPath = path.join(process.cwd() + '/docs')
 
 function buildChildren(path, parentName = '') {
