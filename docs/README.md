@@ -24,7 +24,7 @@
  5、把代码推到 master 即可
 
 ```
-
+> 另外：上传图片的图床使用：[https://catbox.moe/?iao.su](https://catbox.moe/?iao.su)
 ### 本站宠物🐈‍
 ![A Cat](./img/cat-2.png)
 ![A Cat](./img/cat-1.png)
