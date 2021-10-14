@@ -45,4 +45,5 @@ module.exports = {
   dest: path.resolve(__dirname, '../', '../', 'dist'),
   base: '/vuepress-fe-note/',
   evergreen: true,
+  plugins: ['@vuepress/back-to-top']
 }

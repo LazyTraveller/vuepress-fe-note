@@ -7,7 +7,6 @@
     "name": "everything sucks. just kidding. everything is great",
     "url": "https://github.com/LazyTraveller/vuepress-fe-note",
     "email": "heweizhi033@163.com"
-
   },
   "license": "MIT",
   "scripts": {
@@ -16,6 +15,7 @@
     "deploy-gh": "GH=1 yarn docs:build && bash scripts/deploy-gh.sh"
   },
   "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.8.2",
     "vuepress": "^1.8.2"
   }
 }
