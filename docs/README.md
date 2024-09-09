@@ -3,10 +3,6 @@
 <div align="center">👉 <a target="_blank" href="https://lazytraveller.github.io/vuepress-fe-note/">预览地址</a></div>
 </p>
 
-#### 宗旨：在记录过程中不断成长进步, 一分耕耘，一分收获
-
-#### 原则：简单化，一切问题都可以简单化
-
 ### 运行项目
 ```sh
  # 安装依赖
